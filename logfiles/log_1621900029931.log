@@ -1,0 +1,27 @@
+Model started training: 2021-05-25 01:46:51.177382 
+ Learning rate: 0.01 
+ Number of epochs: 12000
+    epoch: 600,   loss = 0.65718764
+    epoch: 1200,  loss = 0.65668869
+    epoch: 1800,  loss = 0.65614754
+    epoch: 2400,  loss = 0.65549242
+    epoch: 3000,  loss = 0.65461361
+    epoch: 3600,  loss = 0.65331548
+    epoch: 4200,  loss = 0.65116823
+    epoch: 4800,  loss = 0.64708316
+    epoch: 5400,  loss = 0.63758945
+    epoch: 6000,  loss = 0.60669285
+    epoch: 6600,  loss = 0.46275148
+    epoch: 7200,  loss = 0.26843211
+    epoch: 7800,  loss = 0.16713710
+    epoch: 8400,  loss = 0.10327772
+    epoch: 9000,  loss = 0.06517541
+    epoch: 9600,  loss = 0.04795412
+    epoch: 10200, loss = 0.03902175
+    epoch: 10800, loss = 0.03336355
+    epoch: 11400, loss = 0.02933562
+    epoch: 12000, loss = 0.02622498
+
+Model finished training: 2021-05-25 01:47:09.929542
+(training accuracy: 0.973775016143918)
+tested accuracy = 0.956140339375

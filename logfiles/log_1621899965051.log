@@ -1,0 +1,12 @@
+Model started training: 2021-05-25 01:45:46.955651 
+ Learning rate: 0.01 
+ Number of epochs: 12000
+    epoch: 2400, loss = 0.65620130
+    epoch: 4800, loss = 0.65199286
+    epoch: 7200, loss = 0.49904829
+    epoch: 9600, loss = 0.04659665
+    epoch: 12000, loss = 0.02766893
+
+Model finished training: 2021-05-25 01:46:05.051191
+(training accuracy: 0.9723310675472021)
+tested accuracy = 0.956140339375
